@@ -80,7 +80,7 @@ main > .tagline {
   position: absolute;
   top: 100%;
   left: 50%;
-  width: 300px;
+  width: 100px;
   margin-left: -150px;
   padding: 5px 0;
   z-index: 1;
